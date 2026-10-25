@@ -1,0 +1,20 @@
+OrderID,CustomerName,Region,Product,Quantity,SalesAmount,Discount,OrderDate,DeliveryDate,PhoneNumber,Region_clean,Product_clean
+ORD1095,Bob Smith,South,Unknown,-1.0,2710.16,15,2025-04-06,2024-02-30,+2348012345678,South,Unknown
+ORD1158,Ibrahim Musa,North,phone ,0.0,,5,2025-06-08,2025-06-21,+1-202-555-0178,North,Phone
+ORD1115,Rita Gomez,North,Unknown,-1.0,3876.36,10,2025-04-26,2025-05-04,+1-202-555-0178,North,Unknown
+ORD1152,David King,Souht,phone ,0.0,3728.05,10,2025-06-02,2025-06-07,2025550185,South,Phone
+ORD1125,Quinn Harper,Souht,Phone,-1.0,336.52,25,2025-05-06,2025-00-10,+44 20 7946 0958,South,Phone
+ORD1135,Tina Zhang,South,Accessory,-1.0,one hundred,0,2025-05-16,2025-05-26,+2348012345678,South,Accessory
+ORD1122,Lola Ade,Souht,Tablet,0.0,"$2,952",5,2025-05-03,2025-04-30,555-018X,South,Tablet
+ORD1098,Kevin Patel,South,Accessory,0.0,4171.79,30,2025-04-09,2025-04-23,+44 20 7946 0958,South,Accessory
+ORD1012,Nina Roberts,Souht,Unknown,-1.0,4554.0,5,2025-01-13,2025-01-09,555-018X,South,Unknown
+ORD1090,,East,Tablet,0.0,245.83,5,2025-04-01,2025-03-28,,East,Tablet
+ORD1187,Charlie Lee,Nrth,lap top,-1.0,2973.81,25,2025-07-07,2025-07-13,+2348012345678,North,Laptop
+ORD1142,Ibrahim Musa,West,Accessory,0.0,3280.47,5,2025-05-23,2025-05-30,(202) 555-0189,West,Accessory
+ORD1064,Charlie Lee,East,Tablet,0.0,674.43,20,2025-03-06,2025-03-14,+2348012345678,East,Tablet
+ORD1156,Oluwaseun Adebayo,SOUTH ,Phone,0.0,4370.56,0,2025-06-06,2025-06-20,+2348012345678,South,Phone
+ORD1047,Oluwaseun Adebayo,West,lap top,-1.0,1493.44,30,2025-02-17,2025-02-18,+44 20 7946 0958,West,Laptop
+ORD1080,Charlie Lee,East,lap top,-1.0,1337.0,5,2025-03-22,12/31/24,+2348012345678,East,Laptop
+ORD1167,Tina Zhang,North,Accessory,0.0,3381.38,,2025-06-17,2025-06-23,+44 20 7946 0958,North,Accessory
+ORD1099,Mohammed Ali,West,Accessory,-1.0,4696.48,25,2025-04-10,2025-04-11,(202) 555-0189,West,Accessory
+ORD1116,Rita Gomez,SOUTH ,Tablet,-1.0,"$2,987",,2025-04-27,2025-05-04,2025550185,South,Tablet
